@@ -1,0 +1,2606 @@
+[
+    {
+        "learning_rate": 0.5,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 98.42083740234375
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 126.61109161376953
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 162.8518829345703
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 191.4586639404297
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 66.18856048583984
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 96.62821960449219
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 143.03045654296875
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 210.7642822265625
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 65.19611358642578
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 93.15496063232422
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 160.7791748046875
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 189.95953369140625
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 61.91688537597656
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 116.43766021728516
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 177.54136657714844
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 235.76426696777344
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 63.505489349365234
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 118.98951721191406
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 161.1917724609375
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 210.1208953857422
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 62.903377532958984
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 109.58514404296875
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 173.93896484375
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 230.45712280273438
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 63.97203826904297
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 100.86994171142578
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 161.5574951171875
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 215.44444274902344
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 65.56246185302734
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 114.12909698486328
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 165.69851684570312
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 227.63560485839844
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 70.45881652832031
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 109.44979095458984
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 168.55734252929688
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 241.0684051513672
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 71.4264907836914
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 104.20250701904297
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 187.46044921875
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 231.19583129882812
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 62.76033020019531
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 112.01249694824219
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 174.78733825683594
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 239.83164978027344
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 65.91506958007812
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 116.74960327148438
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 187.95401000976562
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 229.17271423339844
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 78.3897476196289
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 129.1065216064453
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 201.9978485107422
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 281.85186767578125
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 2,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 74.43429565429688
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 2,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 121.87409210205078
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 2,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 192.38624572753906
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 2,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 249.8086395263672
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 2,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 72.07946014404297
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 2,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 121.02149200439453
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 2,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 190.13552856445312
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 2,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 264.1040344238281
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 2,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 75.6513671875
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 2,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 118.50334930419922
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 2,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 194.056640625
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 2,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 243.76614379882812
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 1,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 92.26184844970703
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 1,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 134.12533569335938
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 1,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 202.70567321777344
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 1,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 286.48321533203125
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 1,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 89.56059265136719
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 1,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 139.52565002441406
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 1,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 187.18081665039062
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 1,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 282.07257080078125
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 1,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 85.12084197998047
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 1,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 140.51309204101562
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 1,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 197.02601623535156
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 1,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 266.0956115722656
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 1,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 80.90360260009766
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 1,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 137.9880828857422
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 1,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 190.65975952148438
+    },
+    {
+        "learning_rate": 0.5,
+        "batch_size": 1,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 256.07904052734375
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 7.283683776855469
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 4.655193328857422
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 4.598771572113037
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 4.557501792907715
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 4.485289096832275
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 4.453891277313232
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 4.4535017013549805
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 4.430467128753662
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 4.443572044372559
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 4.454111576080322
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 4.472280025482178
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 4.470351696014404
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 4.441717147827148
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 4.4832563400268555
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 4.483578205108643
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 4.469507217407227
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 4.507641792297363
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 4.488914489746094
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 4.48694372177124
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 4.468554496765137
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 4.454103469848633
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 4.484017848968506
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 4.452671527862549
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 4.428594589233398
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 4.410709381103516
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 4.414428234100342
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 4.392344951629639
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 4.3689165115356445
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 4.366185188293457
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 4.440996170043945
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 4.417542934417725
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 4.434118747711182
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 4.4646077156066895
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 4.409135818481445
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 4.38325834274292
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 4.364652156829834
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 4.316244602203369
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 4.352351665496826
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 4.3694844245910645
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 4.425200939178467
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 4.430676460266113
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 4.394979000091553
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 4.448246955871582
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 4.439786434173584
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 4.462535381317139
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 4.38685417175293
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 4.378641128540039
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 4.389862537384033
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 4.478817939758301
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 4.463683605194092
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 4.450137138366699
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 4.493435382843018
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 2,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 4.462516784667969
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 2,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 4.494168758392334
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 2,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 4.493324279785156
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 2,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 4.502512454986572
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 2,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 4.479751110076904
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 2,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 4.491841793060303
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 2,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 4.510174751281738
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 2,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 4.514131546020508
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 2,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 4.463415145874023
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 2,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 4.532476902008057
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 2,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 4.5228590965271
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 2,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 4.507562160491943
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 1,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 4.588009834289551
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 1,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 4.585913181304932
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 1,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 4.593966007232666
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 1,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 4.620068073272705
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 1,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 4.6047468185424805
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 1,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 4.607635021209717
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 1,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 4.62481164932251
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 1,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 4.640812873840332
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 1,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 4.614620685577393
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 1,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 4.62322998046875
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 1,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 4.601688385009766
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 1,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 4.641937732696533
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 1,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 4.608396530151367
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 1,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 4.542713165283203
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 1,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 4.641820430755615
+    },
+    {
+        "learning_rate": 0.05,
+        "batch_size": 1,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 4.666198253631592
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 4.336848735809326
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 4.330210208892822
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 4.325893402099609
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 4.3214430809021
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 4.316143989562988
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 4.311266899108887
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 4.298840045928955
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 4.284926891326904
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 4.263993263244629
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 4.24664306640625
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 4.228304862976074
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 4.208512306213379
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 4.190858840942383
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 4.1561760902404785
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 4.1091837882995605
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 4.071832656860352
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 4.335902214050293
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 4.262044429779053
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 4.213598251342773
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 4.155735492706299
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 4.112666130065918
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 4.075283050537109
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 3.9725818634033203
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 3.851856231689453
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 3.7823562622070312
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 3.7322747707366943
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 3.6284525394439697
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 3.5693674087524414
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 3.5672922134399414
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 3.5410404205322266
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 3.4820034503936768
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 3.4427549839019775
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 4.15768575668335
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 4.020177841186523
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 3.916924238204956
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 3.819230556488037
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 3.701936721801758
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 3.6006979942321777
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 3.516848087310791
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 3.4072155952453613
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 3.4171411991119385
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 3.350356101989746
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 3.285457134246826
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 3.227724552154541
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 3.2280478477478027
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 3.2803683280944824
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 3.315281629562378
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 3.241987705230713
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 4.009928226470947
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 3.895463705062866
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 3.7866742610931396
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 3.6279289722442627
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 2,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 3.617119312286377
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 2,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 3.5538299083709717
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 2,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 3.475595474243164
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 2,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 3.4071288108825684
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 2,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 3.375253438949585
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 2,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 3.4434621334075928
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 2,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 3.361215114593506
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 2,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 3.2588558197021484
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 2,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 3.2760698795318604
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 2,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 3.4134676456451416
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 2,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 3.4203338623046875
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 2,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 3.3533763885498047
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 1,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 4.159115791320801
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 1,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 3.95147967338562
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 1,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 3.717780590057373
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 1,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 3.587053060531616
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 1,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 3.6428122520446777
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 1,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 3.7237024307250977
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 1,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 3.5684754848480225
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 1,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 3.433320999145508
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 1,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 3.514549493789673
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 1,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 3.6710944175720215
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 1,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 3.5889523029327393
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 1,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 3.4829962253570557
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 1,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 3.512982130050659
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 1,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 3.773380756378174
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 1,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 3.620286464691162
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 1,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 3.4522063732147217
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 4.174345016479492
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 4.118322849273682
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 4.071118354797363
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 4.02222204208374
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 3.9785678386688232
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 3.9394614696502686
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 3.902282953262329
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 3.873182535171509
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 3.8471438884735107
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 3.817694902420044
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 3.7915871143341064
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 3.770159959793091
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 3.750598907470703
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 3.7322092056274414
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 3.7102348804473877
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 3.6996822357177734
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 3.8714160919189453
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 3.841946601867676
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 3.8099210262298584
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 3.7901101112365723
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 3.771456480026245
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 3.7543468475341797
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 3.74165678024292
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 3.7303662300109863
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 3.7161660194396973
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 3.7027275562286377
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 3.687774658203125
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 3.675823211669922
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 3.659900426864624
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 3.6520864963531494
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 3.645214319229126
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 3.6317973136901855
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 3.7767183780670166
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 3.7503058910369873
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 3.731691360473633
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 3.714514970779419
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 3.6966958045959473
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 3.6793973445892334
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 3.66586971282959
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 3.6508166790008545
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 3.642498254776001
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 3.6335928440093994
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 3.618776798248291
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 3.596662998199463
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 3.5838303565979004
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 3.5825607776641846
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 3.5630626678466797
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 3.5429394245147705
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 3.684462785720825
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 3.6521968841552734
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 3.6324734687805176
+    },
+    {
+        "learning_rate": 0.0005,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 3.6223671436309814
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 1.8156408071517944
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 0.9613683819770813
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 0.7383373975753784
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 5,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 0.6065273880958557
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 0.5144271850585938
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 0.43200528621673584
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 0.36580386757850647
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 5,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 0.3309895694255829
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 0.2860702872276306
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 0.25852763652801514
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 0.2394612729549408
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 5,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 0.22257892787456512
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 0.21236452460289001
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 0.20792226493358612
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 0.19322742521762848
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 5,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 0.1839490830898285
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 0.7135444283485413
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 0.5051921606063843
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 0.3820301592350006
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 4,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 0.3089481294155121
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 0.27169516682624817
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 0.23465970158576965
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 0.21374906599521637
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 4,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 0.19581317901611328
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 0.18639524281024933
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 0.17341092228889465
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 0.16333675384521484
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 4,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 0.15361300110816956
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 0.15227991342544556
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 0.14581570029258728
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 0.14201860129833221
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 4,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 0.13987435400485992
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 0.5638383626937866
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 0.3681810796260834
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 0.2796975374221802
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 3,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 0.2323853224515915
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 0.20378004014492035
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 0.18602941930294037
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 0.17202763259410858
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 3,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 0.16028890013694763
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 0.15235823392868042
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 0.14392629265785217
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 0.1368340700864792
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 3,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 0.13119851052761078
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 0.12756086885929108
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 0.12517020106315613
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 0.1218944638967514
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 3,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 0.1169285997748375
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 0.4609867334365845
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 0.293146014213562
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 0.22936344146728516
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 2,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 0.19821572303771973
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 2,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 0.17110329866409302
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 2,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 0.15565544366836548
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 2,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 0.14554056525230408
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 2,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 0.13914507627487183
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 2,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 0.13081549108028412
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 2,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 0.1233915165066719
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 2,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 0.11820566654205322
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 2,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 0.11358345299959183
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 2,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 0.11260462552309036
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 2,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 0.10878044366836548
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 2,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 0.10344911366701126
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 2,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 0.10101854801177979
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 1,
+        "warmup_steps": 70,
+        "weight_decay": 0.5,
+        "train_loss": 0.39638057351112366
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 1,
+        "warmup_steps": 70,
+        "weight_decay": 0.05,
+        "train_loss": 0.24776779115200043
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 1,
+        "warmup_steps": 70,
+        "weight_decay": 0.005,
+        "train_loss": 0.19805140793323517
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 1,
+        "warmup_steps": 70,
+        "weight_decay": 0.0005,
+        "train_loss": 0.17195017635822296
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 1,
+        "warmup_steps": 50,
+        "weight_decay": 0.5,
+        "train_loss": 0.1502213329076767
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 1,
+        "warmup_steps": 50,
+        "weight_decay": 0.05,
+        "train_loss": 0.13642877340316772
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 1,
+        "warmup_steps": 50,
+        "weight_decay": 0.005,
+        "train_loss": 0.12705819308757782
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 1,
+        "warmup_steps": 50,
+        "weight_decay": 0.0005,
+        "train_loss": 0.12065339088439941
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 1,
+        "warmup_steps": 30,
+        "weight_decay": 0.5,
+        "train_loss": 0.11234698444604874
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 1,
+        "warmup_steps": 30,
+        "weight_decay": 0.05,
+        "train_loss": 0.10782897472381592
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 1,
+        "warmup_steps": 30,
+        "weight_decay": 0.005,
+        "train_loss": 0.10006215423345566
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 1,
+        "warmup_steps": 30,
+        "weight_decay": 0.0005,
+        "train_loss": 0.10227413475513458
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 1,
+        "warmup_steps": 10,
+        "weight_decay": 0.5,
+        "train_loss": 0.09746886044740677
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 1,
+        "warmup_steps": 10,
+        "weight_decay": 0.05,
+        "train_loss": 0.09238390624523163
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 1,
+        "warmup_steps": 10,
+        "weight_decay": 0.005,
+        "train_loss": 0.08969400823116302
+    },
+    {
+        "learning_rate": 5e-05,
+        "batch_size": 1,
+        "warmup_steps": 10,
+        "weight_decay": 0.0005,
+        "train_loss": 0.08796387910842896
+    }
+]

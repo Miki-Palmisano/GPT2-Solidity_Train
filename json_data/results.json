@@ -1,0 +1,37 @@
+[
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 700,
+        "weight_decay": 0.05,
+        "train_loss": 6.372425556182861
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 700,
+        "weight_decay": 0.005,
+        "train_loss": 4.302371025085449
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 700,
+        "weight_decay": 0.0005,
+        "train_loss": 3.4156484603881836
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 500,
+        "weight_decay": 0.05,
+        "train_loss": 2.6860318183898926
+    },
+    {
+        "learning_rate": 0.005,
+        "batch_size": 3,
+        "warmup_steps": 500,
+        "weight_decay": 0.005,
+        "train_loss": 2.421752452850342
+    }
+]
